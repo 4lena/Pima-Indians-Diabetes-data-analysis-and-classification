@@ -1,13 +1,14 @@
-# Pima-Indians-Diabetes-data-analysis-and-classification
+# Pima Indians Diabetes Data Analysis And Classification
 
-## Context:
-This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+<!-- introduction -->
+## About The Project
 
-## Content:
-The datasets consists of several medical predictor variables and one target variable, (Outcome).
+Apply data analysis and different classification models on the Pima Indians Diabetes dataset such as logistic regression, KNN, and SVM, to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. In addition, evaluate each method to determine which is the best classification model for this problem.
 
-Dataset: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+<!-- technology -->
+## Built With
 
-### Built With:
+* [![My Skills](https://skills.thijs.gg/icons?i=python)](https://skills.thijs.gg) <img width="40" alt="logo" src="https://user-images.githubusercontent.com/98522684/200248160-e3e79aa5-863e-4616-a11e-823866901875.png">
 
-<img width="40" alt="logo" src="https://user-images.githubusercontent.com/98522684/200248160-e3e79aa5-863e-4616-a11e-823866901875.png">
+## Dataset source
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
